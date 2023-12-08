@@ -117,4 +117,4 @@ for (let group of Object.values(rank)) {
 console.log(rank)
 console.log(ans)
 
-// 248569531
+// 250382098
